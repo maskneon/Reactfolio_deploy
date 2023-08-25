@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f41b574a.css",
+    "main.js": "/static/js/main.85c24783.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Resume_Sarvjeet.pdf": "/static/media/Resume_Sarvjeet.fc29178120ef441c6b25.pdf",
+    "index.html": "/index.html",
+    "main.f41b574a.css.map": "/static/css/main.f41b574a.css.map",
+    "main.85c24783.js.map": "/static/js/main.85c24783.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f41b574a.css",
+    "static/js/main.85c24783.js"
+  ]
+}
